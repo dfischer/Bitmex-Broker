@@ -16,6 +16,8 @@ Python 3.7.0
 Bravado and Bravado-core python libraries  
 
 # Usage
+
+Enter your api-key and secret (both for the testnet and the mainnet) on the __init__ function for the class BitmexWrapper located on main.py as the values for the api-key and api-secret arguments on the bitmex.bitmex function
 Run main.py with python3  
 Choose between testnet or mainnet  
 Enjoy. 
